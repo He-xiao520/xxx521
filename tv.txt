@@ -53,6 +53,7 @@ CCTV-17农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/inde
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 电影,#genre#
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
 CHC家庭影院,http://cg14.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8
 黑莓电影,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
