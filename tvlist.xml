@@ -1,0 +1,13 @@
+<root>
+<type title="cctv1综合">
+<channel title="cctv1">
+<url link="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8"/>
+</channel>
+<channel title="cctv2财经">
+<url link="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8"/>
+</channel>
+<channel title="微信18913686137">
+<url link="http://live.zscz0768.com/live/ggpd.m3u8"/>
+</channel>
+</type>
+</root>
